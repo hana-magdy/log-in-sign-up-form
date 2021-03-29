@@ -1,0 +1,67 @@
+#FirstDiv{
+  
+    background-color:rgb(224, 209, 224);
+    margin-top: 50;
+    text-align: center;
+    display:block;
+    border-radius: 5px;
+}
+    
+#Header-1{
+    font-family:Brush Script MT, Brush Script Std, cursive;
+    color:purple;
+    font-size: 120px;
+    margin-bottom: 0;
+}
+
+.Options{
+    color:purple;
+    font-family:monospace;
+    font-size: 20px;
+    border: hidden;
+    outline:none;
+    background-color: inherit;
+    display: inline-block;
+}
+
+.Options:hover{ text-decoration: underline;}
+
+.FormInputs{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 4px;
+  box-sizing: content-box;
+  border: 1px solid #ccc;
+  height: 25;
+  width: 350;
+  
+}
+
+.FormLabels{
+display: block;
+text-align: center;
+margin-right:280 ;
+color:purple;
+font-family:monospace;
+font-size: 15px;
+}
+
+
+ #SignUpDiv{
+    background-color:rgb(224, 209, 224);
+    border-radius: 5px;
+    display: block;
+    align-items: center;
+    margin-top: 20;
+    padding-bottom:10;
+ }
+
+ #LoginDiv{
+    background-color:rgb(224, 209, 224);
+    border-radius: 5px;
+    display: block;
+    align-items: center;
+    margin-top: 20;
+    padding-bottom:10;
+ }
